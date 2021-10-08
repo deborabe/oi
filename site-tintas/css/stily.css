@@ -1,0 +1,109 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.card{
+    margin: auto;
+    margin-top: 10px;
+   border: 1px brown solid;
+}
+
+
+body{
+background-color:white;
+font-family: 'Poppins', sans-serif;
+
+}
+
+
+.localização {
+
+    height: 540px;
+}
+
+.localização h2 {
+
+font-family: roboto;
+font-size: 30px;
+font-weight: bold;
+text-transform: uppercase;
+margin-top: 50px;
+text-align:center ;
+}
+
+.localização p {
+
+font-family: Lato;
+font-size: 18px;
+font-weight: lighter;
+text-align: center;
+text-transform: uppercase;
+color: white;
+margin-top: 10px;
+
+}
+
+
+
+/*rodapé*/
+
+
+.footer{
+
+    height: 150px;
+    background:brown;
+}
+
+
+.footer h2 {
+
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align:left ;
+    color: black;
+    }
+    
+    .footer p {
+    
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    text-transform: unset;
+    color:black;
+    margin-top: 20px;
+    
+    }
+
+
+
+    .navbar{
+        background-color:brown;
+    }
+
+    .btn{
+        background-color: brown;
+    }
+
+
+
+    .navbar{
+        background-color: brown;
+    }
+
+
+    .btn{
+        background-color: brown;
+    }
+
+
+
+
+    body{
+
+
+        background-color:white
+    }
+
